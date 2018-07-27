@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+}
+h1 {
+    color: blue;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 5px;
+}
+
+.uzraksts{
+	color:blue;
+	font-size:30;
+	text-align: center;
+}
+
+
+
+
+#parent {
+   display: table;
+   width: 100%;
+}
+#form_login {
+   display: table-cell;
+   text-align: center;
+   vertical-align: middle;
+}
+
+
